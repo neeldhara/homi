@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: contact.qmd
-        text: Contact
   page-footer:
     left: |
       &copy; 2025 HoMI Project, IIT Gandhinagar. All rights reserved.
