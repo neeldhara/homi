@@ -13,8 +13,6 @@ website:
   page-footer:
     left: |
       &copy; 2025 HoMI Project, IIT Gandhinagar. All rights reserved.
-    right: |
-      <a href="contact.html">Contact Us</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Use</a>
 format:
   html:
     theme: 
