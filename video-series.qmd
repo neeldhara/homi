@@ -1,0 +1,117 @@
+---
+title: "HoMI's Video Series"
+---
+
+:::: {.column-page}
+
+## Educational Video Series
+
+Our video series explores various aspects of the history of mathematics in India, presented by leading scholars in the field.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### HoMI and our School Mathematics Curriculum
+#### Presented by M. D. Srinivas
+
+This video explores how the history of Indian mathematics can be integrated into school curriculum, making it more relevant and engaging for students.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxX7nmBUcMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/HOMI-andourSchoolMathematicsCurriculum12-02-24.pdf){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Introduction to Indian Astronomy
+#### Presented by M. S. Sriram
+
+This video provides an introduction to the rich tradition of astronomy in India and its connection to mathematical developments.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e516vyV5YQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/Sriram-%20HoMI%20Teachers%27%20Workshop%20-Feb%2024.pdf){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Approximate Formula for Sine by Bhāskara I
+#### Presented by Venketeswara Pai R.
+
+This video explores the remarkable approximation formula for sine developed by Bhāskara I in the 7th century CE.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oU7gNYnqJOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/IIT_Gn_Jya_Bhaskara_12Feb2024%20%281%29.pdf){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Geometry in Indian Mathematics
+#### Presented by V. Ramakalyani
+
+This video discusses the geometric concepts and techniques developed in the Indian mathematical tradition.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LoaslScDJM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/GEOMETRY%20IN%20INDIAN%20MATHEMATICS-%20.pdf){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### A Few Ideas in Bharatiya Ganita
+#### Presented by Raghavasimhan Thirunarayanan
+
+This video presents key concepts and ideas from the Indian mathematical tradition.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJkBQ5BTF1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/2024_iitgn_workshop.pptx){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Trigonometry in India
+#### Presented by K. Ramasubramanian and Clemency Montelle
+
+This video explores the development of trigonometry in the Indian mathematical tradition.
+
+::: {.ratio .ratio-16x9}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fH17IXWWOYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+[Download Presentation](https://sites.iitgn.ac.in/homi/assets/files/PRESENTATIONS_HistoryofTrig-1.pdf){.btn .btn-outline-primary .mt-2}
+:::
+:::
+:::
+
+:::
+
+::::

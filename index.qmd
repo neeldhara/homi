@@ -1,0 +1,182 @@
+---
+page-layout: full
+---
+
+<style>
+/* Direct CSS fixes for the gap */
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: 0 !important;
+}
+#quarto-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.page-columns {
+  margin-top: -2px !important;
+  padding-top: 0 !important;
+}
+.banner-section {
+  margin-top: -2px !important;
+  position: relative;
+  top: -2px !important;
+}
+.column-page {
+  margin-top: -25px !important;
+  padding-top: 0 !important;
+}
+#quarto-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+/* Additional fixes */
+main.content {
+  margin-top: -25px !important;
+  padding-top: 0 !important;
+}
+#title-block-header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+.navbar + * {
+  margin-top: -2px !important;
+}
+/* Force no gap between navbar and any content */
+.navbar ~ * {
+  margin-top: 0 !important;
+}
+/* Extreme measure to eliminate any gap */
+html body > nav.navbar + div {
+  margin-top: -2px !important;
+}
+</style>
+
+<!-- Banner Section -->
+::: {.banner-section}
+<div class="banner-content">
+  <h1 style="color: white !important;">History of Mathematics in India</h1>
+  <p style="font-family: 'Playwrite IN', cursive; font-size: 1.4rem;">Exploring India's rich mathematical heritage from Vedic to modern times</p>
+</div>
+:::
+
+<!-- Event Slider -->
+```{=html}
+<div class="text-slider-container">
+  <div class="text-slider">
+    <div class="text-slider-item">
+      <strong>Upcoming:</strong> Ganita Sammelan 2025 - a national gathering of mathematics scholars and enthusiasts | 19-22 January 2025
+    </div>
+    <div class="text-slider-item">
+      <strong>Recent:</strong> Workshop for School Teachers - A practical exploration of India's rich mathematical heritage | February 12-14, 2024
+    </div>
+    <div class="text-slider-item">
+      <strong>Past Event:</strong> Infinite Insights - A journey through India's mathematical marvels | November 16-17, 2023
+    </div>
+    <div class="text-slider-item">
+      <strong>Past Event:</strong> Young Scholars' Conference - Researchers discussed topics related to Indian Mathematics | January 21, 2023
+    </div>
+  </div>
+</div>
+```
+
+<!-- Features Section -->
+::: {.features-section .py-5}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.feature-card .new-style}
+```{=html}
+<div class="feature-header" style="background-color: #9B7A9D;"><i class="bi bi-mortarboard" style="color: #fff;"></i>&nbsp;&nbsp;Research</div>
+<div class="feature-content">
+  <p>We conduct advanced research on India's mathematical traditions, from Vedic mathematics to modern contributions.</p>
+</div>
+<div class="feature-footer">
+  <a href="projects.html" class="feature-link">Learn More</a>
+</div>
+```
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.feature-card .new-style}
+```{=html}
+<div class="feature-header" style="background-color: #B5D6B8;"><i class="bi bi-book" style="color: #fff;"></i>&nbsp;&nbsp;Outreach</div>
+<div class="feature-content">
+  <p>We develop authentic educational materials for students, teachers, and the general public at all levels.</p>
+</div>
+<div class="feature-footer">
+  <a href="resources.html" class="feature-link">Learn More</a>
+</div>
+```
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.feature-card .new-style}
+```{=html}
+<div class="feature-header" style="background-color: #B8C5D6;"><i class="bi bi-people" style="color: #fff;"></i>&nbsp;&nbsp;Community</div>
+<div class="feature-content">
+  <p>We bring together scholars, educators, and enthusiasts to celebrate India's mathematical heritage.</p>
+</div>
+<div class="feature-footer">
+  <a href="outreach.html" class="feature-link">Learn More</a>
+</div>
+```
+:::
+:::
+
+:::
+:::
+
+<h2 style="text-align: center; font-family: 'Moon Dance', cursive; font-size: 3rem; color: rgb(130, 73, 32); margin: 2rem 0; border-bottom: 0px;">The HOMI Mission</h2>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 style="background-color: #e6f3ff;"}
+::: {.card-body}
+### Promote research and exploration
+
+We support and conduct original research into primary sources, manuscripts, and artifacts related to Indian mathematics, encouraging scholarly exploration and academic discourse.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 style="background-color: #e8f7e8;"}
+::: {.card-body}
+### Inspire education and engagement
+
+We develop educational resources, workshops, and outreach programs to engage students, teachers, and the general public with the rich heritage of Indian mathematics, making it accessible and relevant.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 style="background-color: #fffde8;"}
+::: {.card-body}
+### Build a community of scholars
+
+We foster a collaborative network of researchers, educators, and enthusiasts dedicated to the study and promotion of Indian mathematical traditions, facilitating knowledge exchange and mentorship.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100 style="background-color: #f0e6ff;"}
+::: {.card-body}
+### Preserve and share knowledge resources
+
+We work to digitize, translate, and make accessible important mathematical texts and resources from India's past, ensuring their preservation for future generations.
+:::
+:::
+:::
+
+:::

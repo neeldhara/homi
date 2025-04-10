@@ -1,0 +1,16 @@
+---
+---
+
+:::: {.column-page}
+
+## Publications
+
+::: {.callout-note appearance="simple"}
+This section is under construction. Check back soon for updates on our publications.
+:::
+
+### Upcoming Publications
+
+We are in the process of developing several publications focused on the history of mathematics in India. These will include research papers, books, and educational materials that explore various aspects of India's rich mathematical heritage.
+
+::::

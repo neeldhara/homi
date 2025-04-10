@@ -1,0 +1,37 @@
+---
+title: "Privacy Policy"
+---
+
+# Privacy Policy
+
+The History of Mathematics in India (HoMI) project at IIT Gandhinagar is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website.
+
+## Information We Collect
+
+When you visit our website, we may collect certain information automatically through our server logs, including your IP address, browser type, and the pages you visit.
+
+If you choose to contact us using our contact form, we will collect the personal information you provide, such as your name, email address, and any message content.
+
+## How We Use Your Information
+
+We use the information we collect to:
+- Respond to your inquiries and provide the information you request
+- Improve our website and user experience
+- Send you newsletters or updates if you have subscribed to them
+- Comply with legal obligations
+
+## Data Security
+
+We implement appropriate security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction.
+
+## Third-Party Services
+
+Our website may use third-party services such as Google Analytics or embedded forms. These services may collect information about your use of our website.
+
+## Updates to This Policy
+
+We may update this Privacy Policy from time to time. The date of the most recent revision will appear at the top of this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at homi@iitgn.ac.in.

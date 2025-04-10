@@ -1,0 +1,192 @@
+---
+title: "Contact Us"
+page-layout: custom
+---
+```{=html}
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-12 mb-4">
+      <h2 class="text-center">Get in Touch with the HOMI Team</h2>
+      <p class="text-center lead">We'd love to hear from you! Use any of the methods below to reach out.</p>
+      <hr class="my-4">
+    </div>
+  </div>
+  
+  <div class="row">
+    <!-- Left Column - Contact Form -->
+    <div class="col-md-4 mb-5">
+      <div class="contact-card">
+        <h3 class="mb-3">SEND US A MESSAGE</h3>
+        <hr>
+        <iframe style="border:none;width:100%;height:450px;" id="homi-contact-form-xgmaol" src="https://opnform.com/forms/homi-contact-form-xgmaol"></iframe>
+        <script type="text/javascript" onload="initEmbed('homi-contact-form-xgmaol')" src="https://opnform.com/widgets/iframe.min.js"></script>
+      </div>
+    </div>
+    
+    <!-- Middle Column - Other Contact Methods -->
+    <div class="col-md-4 mb-5">
+      <div class="contact-card">
+        <h3 class="mb-3">OTHER WAYS TO REACH US</h3>
+        <hr>
+        
+        <div class="mt-4">
+          <!-- Email -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-envelope-fill"></i>
+            </div>
+            <div class="ms-3">
+              <strong>EMAIL</strong><br>
+              <a href="mailto:homi@iitgn.ac.in">homi@iitgn.ac.in</a>
+            </div>
+          </div>
+          
+          <!-- Twitter -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-twitter"></i>
+            </div>
+            <div class="ms-3">
+              <strong>TWITTER</strong><br>
+              <a href="https://twitter.com/HOMI_IITGN" target="_blank">twitter.com/HOMI_IITGN</a>
+            </div>
+          </div>
+          
+          <!-- Phone -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-telephone-fill"></i>
+            </div>
+            <div class="ms-3">
+              <strong>PHONE</strong><br>
+              +91 79 2395 2423
+            </div>
+          </div>
+          
+          <!-- Facebook -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-facebook"></i>
+            </div>
+            <div class="ms-3">
+              <strong>FACEBOOK</strong><br>
+              <a href="https://facebook.com/HOMI.IITGN" target="_blank">facebook.com/HOMI.IITGN</a>
+            </div>
+          </div>
+          
+          <!-- Address -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-geo-alt-fill"></i>
+            </div>
+            <div class="ms-3">
+              <strong>MAILING ADDRESS</strong><br>
+              Indian Institute of Technology Gandhinagar<br>
+              Palaj, Gandhinagar - 382055<br>
+              Gujarat, India
+            </div>
+          </div>
+          
+          <!-- LinkedIn -->
+          <div class="d-flex mb-4 contact-item">
+            <div class="contact-icon">
+              <i class="bi bi-linkedin"></i>
+            </div>
+            <div class="ms-3">
+              <strong>LINKEDIN</strong><br>
+              <a href="https://linkedin.com/company/homi-iitgn" target="_blank">linkedin.com/company/homi-iitgn</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Right Column - Map -->
+    <div class="col-md-4 mb-5">
+      <div class="contact-card h-100 d-flex flex-column">
+        <h3 class="mb-3">FIND US</h3>
+        <hr>
+        <div class="map-container flex-grow-1">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.4972079399146!2d72.68192081492595!3d23.21252288485543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c2adec1f16d8d%3A0x6536a5033a7339c9!2sIndian%20Institute%20of%20Technology%20Gandhinagar!5e0!3m2!1sen!2sin!4v1649324119562!5m2!1sen!2sin" width="100%" height="100%" style="border:0; min-height:450px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
+<style>
+/* Enhanced contact page styling */
+.contact-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+  height: 100%;
+  transition: transform 0.3s ease;
+}
+
+.contact-icon {
+  width: 45px;
+  height: 45px;
+  background-color: #8B4513;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.contact-item:hover .contact-icon {
+  transform: scale(1.1);
+  background-color: #6d3710;
+}
+
+.contact-icon i {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.contact-item {
+  transition: transform 0.2s ease;
+}
+
+.contact-item:hover {
+  transform: translateX(5px);
+}
+
+a {
+  color: #8B4513;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #6d3710;
+  text-decoration: underline;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+hr {
+  border-color: #ddd;
+  margin-bottom: 1.5rem;
+}
+
+.map-container {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+  .contact-card {
+    margin-bottom: 20px;
+  }
+}
+</style>

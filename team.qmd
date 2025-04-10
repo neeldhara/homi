@@ -1,0 +1,150 @@
+---
+---
+
+:::: {.column-page}
+
+<!-- Page Header -->
+::: {.page-header}
+# Our Team
+:::
+
+<div class="container">
+  <div class="row mb-5">
+    <div class="col-md-8 mx-auto text-center">
+      <p class="lead">The History of Mathematics in India project brings together scholars, researchers, and educators dedicated to exploring India's rich mathematical heritage.</p>
+    </div>
+  </div>
+
+  <!-- Faculty Section -->
+  <h2 class="text-center mb-4">Faculty</h2>
+  <div class="row">
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Michel+Danino" alt="Michel Danino" class="img-fluid">
+        <h4>Michel Danino</h4>
+        <p>Visiting Professor, Earth Sciences</p>
+        <a href="https://iitgn.ac.in/faculty/hss/fac-michel" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Tanya+Srivastava" alt="Tanya Kaushal Srivastava" class="img-fluid">
+        <h4>Tanya Kaushal Srivastava</h4>
+        <p>Assistant Professor, Mathematics</p>
+        <a href="https://iitgn.ac.in/faculty/maths/fac-tanya" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Indranath+Sengupta" alt="Indranath Sengupta" class="img-fluid">
+        <h4>Indranath Sengupta</h4>
+        <p>Professor, Mathematics</p>
+        <a href="https://iitgn.ac.in/faculty/maths/fac-indranath" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=MD+Srinivas" alt="M.D. Srinivas" class="img-fluid">
+        <h4>M.D. Srinivas</h4>
+        <p>Guest Professor, Humanities and Social Sciences</p>
+        <a href="https://iitgn.ac.in/faculty/guestprof/md-srinivas" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Raghavasimhan" alt="Raghavasimhan Thirunarayanan" class="img-fluid">
+        <h4>Raghavasimhan Thirunarayanan</h4>
+        <p>Guest Faculty, Humanities and Social Sciences</p>
+        <a href="https://ch.linkedin.com/in/raghavasimhan-thirunarayanan-a51946ba" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Manish+Jain" alt="Manish Jain" class="img-fluid">
+        <h4>Manish Jain</h4>
+        <p>Teaching Professor, Creative Learning</p>
+        <a href="https://iitgn.ac.in/faculty/cl/manish" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Srinivas+Reddy" alt="Srinivas Reddy" class="img-fluid">
+        <h4>Srinivas Reddy</h4>
+        <p>Guest Professor, Humanities and Social Sciences</p>
+        <a href="https://iitgn.ac.in/faculty/guestprof/srinivas_reddy" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Students Section -->
+  <h2 class="text-center mb-4 mt-5">Students</h2>
+  <div class="row">
+    <div class="col-md-4 mb-4">
+      <div class="team-member">
+        <img src="https://via.placeholder.com/200x200.jpg?text=Apeksha+Srivastava" alt="Apeksha Srivastava" class="img-fluid">
+        <h4>Apeksha Srivastava</h4>
+        <p>Doctoral Candidate, Humanities and Social Sciences</p>
+        <a href="https://in.linkedin.com/in/srivastava-apeksha" class="btn btn-sm btn-outline-primary">View Profile</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Advisory Council Section -->
+  <h2 class="text-center mb-4 mt-5">Advisory Council</h2>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card mb-4">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">C.S. Aravinda, TIFR, Bengaluru</li>
+            <li class="list-group-item">Bruce C. Berndt, University of Illinois at Urbana-Champaign</li>
+            <li class="list-group-item">S.G. Dani, UM-DAE Centre for Excellence in Basic Sciences, Mumbai</li>
+            <li class="list-group-item">P.P. Divakaran, Formerly with TIFR, Mumbai</li>
+            <li class="list-group-item">Rajeeva Karandikar, CMI, Chennai</li>
+            <li class="list-group-item">Mahan Maharaj, TIFR, Mumbai</li>
+            <li class="list-group-item">Gadadhar Misra, IISc Bangalore</li>
+            <li class="list-group-item">Ram Murti, Queen's University, Canada</li>
+            <li class="list-group-item">Kapil Hari Paranjape, IISER Mohali</li>
+            <li class="list-group-item">K. Ramasubramanian, IIT Bombay, Mumbai</li>
+            <li class="list-group-item">Avinash Sathaye, University of Kentucky</li>
+            <li class="list-group-item">Dinesh Singh, Chancellor, K.R. Mangalam University</li>
+            <li class="list-group-item">M.D. Srinivas, KVSRF & Centre for Policy Studies, Chennai</li>
+            <li class="list-group-item">M.S. Sriram, KVSRF, Chennai</li>
+            <li class="list-group-item">B. Sury, ISI Bangalore</li>
+            <li class="list-group-item">Jugal Verma, IIT Bombay, Mumbai</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Expert Group Section -->
+  <h2 class="text-center mb-4 mt-5">Expert Group</h2>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card mb-4">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item">SG Dani, UM-DAE Centre for Excellence in Basic Sciences, Mumbai</li>
+            <li class="list-group-item">MD Srinivas, KVSRF & Centre for Policy Studies, Chennai</li>
+            <li class="list-group-item">MS Sriram, KVSRF and formerly Madras University, Chennai</li>
+            <li class="list-group-item">K Ramasubramanian, IIT Bombay, Mumbai</li>
+            <li class="list-group-item">Amartya K Dutta, ISI, Kolkata</li>
+            <li class="list-group-item">Kim Plofker, Union College, Schenectady, USA</li>
+            <li class="list-group-item">Clemency Montelle, University of Canterbury, New Zealand</li>
+            <li class="list-group-item">Shailesh Shirali, Rishi Valley School & Sahyadri School KFI, Pune</li>
+            <li class="list-group-item">Jugal Verma, IIT Bombay, Mumbai</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+::::

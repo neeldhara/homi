@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  navbar:
+    logo: "images/logo.png"
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: |
+      &copy; 2025 HoMI Project, IIT Gandhinagar. All rights reserved.
+    right: |
+      <a href="contact.html">Contact Us</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Use</a>
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+    title-block-style: none
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Moon+Dance&family=Noto+Sans:wght@400;700&family=Playwrite+IN&display=swap" rel="stylesheet">
+        <script src="fix-gap.js"></script>
+        <style>
+          /* Critical CSS to fix the gap */
+          body { margin: 0 !important; padding: 0 !important; }
+          .navbar { margin-bottom: 0 !important; padding-bottom: 0 !important; border-bottom: 0 !important; }
+          #quarto-header { margin: 0 !important; padding: 0 !important; }
+          .page-columns { margin-top: 0 !important; padding-top: 0 !important; }
+          .banner-section { margin-top: 0 !important; padding-top: 0 !important; }
+          .column-page { margin-top: 0 !important; padding-top: 0 !important; }
+          #quarto-content { margin-top: 0 !important; padding-top: 0 !important; }
+          main.content { margin-top: 0 !important; padding-top: 0 !important; }
+          #title-block-header { margin-top: 0 !important; padding-top: 0 !important; }
+          .navbar + * { margin-top: 0 !important; padding-top: 0 !important; }
+        </style>

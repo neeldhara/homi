@@ -1,0 +1,37 @@
+---
+---
+
+:::: {.column-page}
+
+## Senapathy Gopalakrishnan
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![](images/placeholder-donor.png){width=100% style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Senapathy Gopalakrishnan, popularly known as Kris Gopalakrishnan, is Chairman of Axilor Ventures, a company supporting and funding startups. He was former executive vice chairman (former co-chairman) of Infosys, a global consulting and IT services company based in India. 
+
+Kris Gopalakrishnan is a renowned entrepreneur and an active supporter of various philanthropic and educational activities. In 2011, Government of India awarded him with Padma Bhushan which is India's third highest civilian honor.
+
+His generous support has made the History of Mathematics in India (HoMI) project possible, enabling research, education, and outreach activities that promote India's rich mathematical heritage.
+:::
+:::
+
+## Philanthropy and Vision
+
+::: {.card .mb-4}
+::: {.card-body}
+Kris Gopalakrishnan's philanthropic vision extends beyond business to education, research, and cultural heritage. His support for the HoMI project reflects his commitment to preserving and promoting India's intellectual traditions.
+
+Through his contributions, the HoMI project has been able to:
+
+- Organize conferences and workshops bringing together scholars from around the world
+- Support research into historical mathematical texts and traditions
+- Develop educational resources for students and teachers
+- Create public awareness about India's mathematical heritage
+:::
+:::
+
+::::

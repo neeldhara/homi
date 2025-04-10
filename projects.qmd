@@ -1,0 +1,108 @@
+---
+---
+
+:::: {.column-page}
+
+<!-- Page Header -->
+::: {.page-header}
+# Our Projects
+:::
+
+<div class="container">
+  <div class="row mb-5">
+    <div class="col-md-8 mx-auto text-center">
+      <p class="lead">Explore our research initiatives focused on documenting, analyzing, and preserving India's rich mathematical heritage.</p>
+    </div>
+  </div>
+
+  <!-- Current Projects Section -->
+  <h2 class="text-center mb-4">Current Projects</h2>
+  
+  <div class="row mb-5">
+    <div class="col-md-6 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="card-title">Mathematical Manuscripts Documentation</h3>
+          <p class="card-text">This project focuses on the documentation and analysis of mathematical manuscripts from various periods of Indian history. Our team is working to catalog, digitize, and analyze these important historical documents.</p>
+          <p class="card-text"><strong>Status:</strong> <span class="badge bg-primary">In Progress</span></p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-6 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="card-title">Educational Resource Development</h3>
+          <p class="card-text">We are developing comprehensive educational resources about the history of Indian mathematics for schools and universities. These materials aim to make India's mathematical heritage accessible to students at all levels.</p>
+          <p class="card-text"><strong>Status:</strong> <span class="badge bg-primary">In Progress</span></p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-6 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="card-title">Digital Archive of Mathematical Artifacts</h3>
+          <p class="card-text">This project involves creating a comprehensive digital archive of historical mathematical artifacts, instruments, and tools used throughout India's mathematical history.</p>
+          <p class="card-text"><strong>Status:</strong> <span class="badge bg-warning text-dark">Planning</span></p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-md-6 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3 class="card-title">Translation of Key Mathematical Texts</h3>
+          <p class="card-text">We are working on translating significant mathematical texts from Sanskrit and other Indian languages into English and modern Indian languages to make them accessible to a wider audience.</p>
+          <p class="card-text"><strong>Status:</strong> <span class="badge bg-warning text-dark">Planning</span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Upcoming Projects Section -->
+  <div class="featured-section py-5 mb-5">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="mb-4">Upcoming Projects</h2>
+        <p>We are in the process of developing several new research initiatives focused on the history of mathematics in India. These projects will explore various aspects of mathematical traditions, techniques, and contributions from ancient to modern times.</p>
+        
+        <h4 class="mt-4 mb-3">Planned Focus Areas:</h4>
+        <ul class="list-group mb-4">
+          <li class="list-group-item"><i class="bi bi-book me-2"></i> Comparative studies of mathematical traditions across cultures</li>
+          <li class="list-group-item"><i class="bi bi-camera me-2"></i> Photographic documentation of mathematical instruments</li>
+          <li class="list-group-item"><i class="bi bi-people me-2"></i> Oral history project with contemporary Indian mathematicians</li>
+          <li class="list-group-item"><i class="bi bi-globe me-2"></i> Interactive web resources on Indian mathematical concepts</li>
+          <li class="list-group-item"><i class="bi bi-mortarboard me-2"></i> Development of curriculum materials for schools</li>
+        </ul>
+        
+        <div class="alert alert-info">
+          <i class="bi bi-info-circle me-2"></i> Interested in collaborating on any of these projects? Please <a href="mailto:homi@iitgn.ac.in" class="alert-link">contact us</a> to discuss potential partnerships.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Research Methodology Section -->
+  <h2 class="text-center mb-4">Our Research Methodology</h2>
+  
+  <div class="row mb-5">
+    <div class="col-md-6">
+      <img src="https://via.placeholder.com/600x400.jpg?text=Research+Methodology" alt="Our Research Methodology" class="img-fluid rounded mb-4">
+    </div>
+    <div class="col-md-6">
+      <p>Our research approach combines traditional historical methods with modern digital techniques:</p>
+      
+      <ul class="list-group mb-4">
+        <li class="list-group-item"><strong>Primary Source Analysis:</strong> Working directly with original manuscripts and texts</li>
+        <li class="list-group-item"><strong>Interdisciplinary Collaboration:</strong> Bringing together historians, mathematicians, linguists, and educators</li>
+        <li class="list-group-item"><strong>Digital Humanities:</strong> Using computational tools to analyze and preserve historical materials</li>
+        <li class="list-group-item"><strong>Educational Outreach:</strong> Translating research findings into accessible educational resources</li>
+      </ul>
+      
+      <p>This comprehensive approach ensures that our research is both academically rigorous and practically useful for education and cultural preservation.</p>
+    </div>
+  </div>
+</div>
+
+::::

@@ -1,0 +1,18 @@
+---
+---
+
+:::: {.column-page}
+
+## Our Mission
+
+::: {.mission-section .p-4 .mb-5}
+The HoMI project explores the rich history of mathematics in India and the enormous contributions by scholars from Vedic to modern times. We promote both advanced research and the creation of authentic educational material at all levels, thus targeting both the scholarly world and the lay public.
+:::
+
+## Our Goals
+
+Our mission is to unearth the hidden treasures of Indian mathematics and spotlight the profound contributions of its mathematicians. We aim to bridge historical gaps, shed light on lesser-known scholars, and foster a deep appreciation for India's mathematical heritage. Through research, translation, and education, we aim to restore the historical prominence of Indian mathematics for lasting significance.
+
+
+
+::::

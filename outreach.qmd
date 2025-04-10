@@ -1,0 +1,171 @@
+---
+---
+
+:::: {.column-page}
+
+<!-- Page Header -->
+::: {.page-header}
+# Outreach Activities
+:::
+
+```{=html}
+<div class="container">
+  <div class="row mb-5">
+    <div class="col-md-8 mx-auto text-center">
+      <p class="lead">Explore our upcoming and past outreach activities that celebrate India's rich mathematical heritage through conferences, workshops, and lectures.</p>
+    </div>
+  </div>
+
+  <!-- Featured Upcoming Event -->
+  <div class="row mb-5">
+    <div class="col-12">
+      <div class="featured-section">
+        <div class="row align-items-center">
+          <div class="col-md-8">
+            <h2>Announcing: Ganita Sammelan</h2>
+            <h3>19-22 January 2025</h3>
+            <p>This in-person four-day workshop will have a rich variety of events: plenary talks by distinguished scholars (including Prof Manjul Bhargava, Dr MD Srinivas, Prof MS Sriram, Prof K Ramasubramanian, Prof Amartya K Dutta), presentations by other scholars, release of at least two major new books, a session in remembrance of the towering scholar, the late Prof RC Gupta, results of a national quiz competition for schoolchildren on the history of Indian mathematics, interactive sessions with school students (including fun and games), etc.</p>
+            
+            <div class="featured-buttons">
+              <a href="https://sites.iitgn.ac.in/homi/assets/files/Ganita-Poster.pdf" class="btn btn-primary">Download Poster</a>
+              <a href="https://events.iitgn.ac.in/apply/application_ganitasammelana.php?eventid=26112024" class="btn btn-primary">Register for the event</a>
+              <a href="https://sites.iitgn.ac.in/homi/assets/files/Ganita_Sammelan_Abstracts.pdf" class="btn btn-primary">Book of Abstracts</a>
+              <a href="https://sites.iitgn.ac.in/homi/assets/files/Ganita%20Sammelan%20schedule_18.01.2025.pdf" class="btn btn-outline-primary">Schedule</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <img src="https://via.placeholder.com/500x300.jpg?text=Ganita+Sammelan" alt="Ganita Sammelan" class="img-fluid rounded">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Past Events -->
+  <h2 class="text-center mb-4">Past Outreach Activities</h2>
+  
+  <div class="row">
+    <!-- Event 1 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Workshop+for+Teachers" alt="Workshop for School Teachers" class="img-fluid">
+        <div class="event-content">
+          <h3>Workshop for School Teachers: An Introduction to Mathematics in India</h3>
+          <p class="event-date">12-14 February 2024</p>
+          <p>A practical exploration of India's rich mathematical heritage! This workshop combined historical insights, hands-on activities, and interactive talks to provide educators with a deep understanding of Indian mathematics.</p>
+          <a href="https://sites.iitgn.ac.in/homi/assets/files/homi-poster-v2-A4.pdf" class="btn btn-sm btn-primary">Download Poster</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 2 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Infinite+Insights" alt="INFINITE INSIGHTS: A journey through India's mathematical marvels" class="img-fluid">
+        <div class="event-content">
+          <h3>INFINITE INSIGHTS: A journey through India's mathematical marvels</h3>
+          <p class="event-date">16-17 November 2023</p>
+          <p>This conversation series was a platform open to all and discussed the convergence of the past and present in exploring India's knowledge systems.</p>
+          <a href="https://sites.iitgn.ac.in/homi/assets/files/Infinite_Insights_HoMI.pdf" class="btn btn-sm btn-primary">Download Poster</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 3 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Young+Scholars+Conference" alt="Young Scholars' Conference on the History of Mathematics" class="img-fluid">
+        <div class="event-content">
+          <h3>Young Scholars' Conference on the History of Mathematics</h3>
+          <p class="event-date">21 January 2023</p>
+          <p>In this second instalment of the Young Scholars' Conference conducted online, researchers discussed a variety of topics related to Indian Mathematics.</p>
+          <div class="d-flex gap-2 mb-2">
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/2nd_Young_%20Schedule.pdf" class="btn btn-sm btn-outline-primary">Schedule</a>
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/2nd_Young_Scholars_Book_Abstracts.pdf" class="btn btn-sm btn-outline-primary">Book of Abstracts</a>
+          </div>
+          <a href="https://sites.iitgn.ac.in/homi/assets/images/2nd_Young_Scholars_Conference.png" class="btn btn-sm btn-outline-secondary">Photos of Workshop</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 4 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Apodictic+Discourse" alt="Apodictic Discourse: A Paradigm for Rational Scholarly Communication?" class="img-fluid">
+        <div class="event-content">
+          <h3>Apodictic Discourse: A Paradigm for Rational Scholarly Communication?</h3>
+          <p class="event-date">17 September 2021</p>
+          <p>In this online seminar, the speaker provided the paradigm for communication among scholars to emancipate the dimensions of scientific knowledge.</p>
+          <a href="https://sites.iitgn.ac.in/homi/assets/files/Poster_Homi_lecture_series_2_Satyanad.pdf" class="btn btn-sm btn-primary">Download Poster</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 5 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=ICM+History" alt="How International Were the Early International Congresses of Mathematicians?" class="img-fluid">
+        <div class="event-content">
+          <h3>How International Were the Early International Congresses of Mathematicians?</h3>
+          <p class="event-date">18 June 2021</p>
+          <p>In this online seminar, the speaker discussed the early history of the International Congresses of Mathematicians, and how they gradually opened up to the wider world.</p>
+          <a href="https://sites.iitgn.ac.in/homi/assets/files/HOMI_SS_C_Hollings_18.06.2021.pdf" class="btn btn-sm btn-primary">Download Poster</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 6 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Young+Scholars+2021" alt="Young Scholars' Conference on the History of Mathematics" class="img-fluid">
+        <div class="event-content">
+          <h3>Young Scholars' Conference on the History of Mathematics</h3>
+          <p class="event-date">17 & 18 April 2021</p>
+          <p>In this two-day online conference, young researchers from around the world presented their research on various themes of ancient Mathematics, with special emphasis on India. The originality of the conference was that several senior scholars in the field commented on the young scholars' presentations and offered further advice.</p>
+          <div class="d-flex gap-2 mb-2">
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/17-18_April%202021_schedule_Page_2.jpg" class="btn btn-sm btn-outline-primary">Schedule</a>
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/Young_Scholars_Conference_Book_of_Abstracts_April_2021.pdf" class="btn btn-sm btn-outline-primary">Book of Abstracts</a>
+          </div>
+          <a href="https://sites.iitgn.ac.in/homi/assets/images/Snip20210418_6.png" class="btn btn-sm btn-outline-secondary">Photos of Workshop</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 7 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=ICEHIM+2017" alt="International Conference on Exploring the History of Indian Mathematics" class="img-fluid">
+        <div class="event-content">
+          <h3>International Conference on Exploring the History of Indian Mathematics</h3>
+          <p class="event-date">4-6 December 2017</p>
+          <p>This international conference at IIT Gandhinagar, jointly held with the Indian Society for the History of Mathematics, hosted some of the finest scholars in the field from India and overseas, and discussed India's advances in ancient to twentieth-century Indian mathematics.</p>
+          <div class="d-flex gap-2 mb-2">
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/timetable_ICEHIM.pdf" class="btn btn-sm btn-outline-primary">Schedule</a>
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/Title&Abstract.pdf" class="btn btn-sm btn-outline-primary">Book of Abstracts</a>
+          </div>
+          <a href="https://sites.iitgn.ac.in/homi/assets/images/Felicity_hrICEH.jpg" class="btn btn-sm btn-outline-secondary">Photos of Workshop</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Event 8 -->
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="event-card">
+        <img src="https://via.placeholder.com/400x300.jpg?text=Workshop+2013" alt="Workshop on Promoting History of Science in India" class="img-fluid">
+        <div class="event-content">
+          <h3>Workshop on Promoting History of Science in India</h3>
+          <p class="event-date">16–17 March 2013</p>
+          <p>This workshop presented an authentic picture of scientific advances in pre-modern India, especially in the fields of mathematics and astronomy. Leading scholars and over 50 delegates engaged in discussions on how to promote awareness of ancient India's achievements in science.</p>
+          <div class="d-flex gap-2 mb-2">
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/History_of_science,%20IITGn_March_2013_Book_of_schedule.pdf" class="btn btn-sm btn-outline-primary">Schedule</a>
+            <a href="https://sites.iitgn.ac.in/homi/assets/files/History_of_science,%20IITGn_March_2013_Book_of_Abstracts.pdf" class="btn btn-sm btn-outline-primary">Book of Abstracts</a>
+          </div>
+          <a href="https://sites.iitgn.ac.in/homi/assets/images/HOS_photo.jpg" class="btn btn-sm btn-outline-secondary">Photos of Workshop</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+::::

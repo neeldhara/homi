@@ -1,0 +1,310 @@
+/* Custom CSS for HOMI website */
+
+/* Base styles */
+body {
+  font-family: 'Noto Sans', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  color: #1a5276;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Navbar customization */
+.navbar {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: none !important;
+}
+
+/* Fix the gap between navbar and content - enhanced rules */
+body .navbar + div {
+  margin-top: -20px !important;
+}
+
+/* More aggressive gap removal between navbar and content */
+.navbar + * {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+#quarto-header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+#title-block-header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Remove padding from Quarto containers */
+#quarto-content, 
+.quarto-container, 
+.content, 
+.column-page, 
+.quarto-title-banner {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Force removal of any gap in the page structure */
+.page-columns {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Ensure banner connects directly to navbar */
+.banner-section {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  position: relative;
+  top: -1px !important; /* Pull up slightly to ensure no gap */
+}
+
+/* Cards for events, team members, etc. */
+.card {
+  border-radius: 0; 
+  margin-bottom: 20px;
+  overflow: hidden;
+  border: 1px solid #e0e0e0;
+  transition: none; 
+  box-shadow: none; 
+}
+
+/* Remove hover animation */
+.card:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+.card-title {
+  color: #1a5276;
+  font-weight: 600;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Event styling */
+.event-date {
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+/* Team member styling */
+.team-member {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.team-member img {
+  border-radius: 50%;
+  max-width: 150px;
+  margin-bottom: 15px;
+}
+
+.team-member h4 {
+  margin-bottom: 5px;
+}
+
+.team-member p {
+  color: #7f8c8d;
+  margin-bottom: 10px;
+}
+
+/* Footer styling */
+footer {
+  background-color: #1a5276;
+  color: white;
+  padding: 20px 0;
+}
+
+footer a {
+  color: #d6eaf8;
+}
+
+/* Mission section styling */
+.mission-section {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 0; 
+  margin: 20px 0;
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: #1a5276;
+  border-color: #1a5276;
+}
+
+.btn-primary:hover {
+  background-color: #154360;
+  border-color: #154360;
+}
+
+/* Resource links */
+.resource-link {
+  display: block;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: #f8f9fa;
+  border-left: 3px solid #1a5276;
+  transition: background-color 0.3s ease;
+}
+
+.resource-link:hover {
+  background-color: #e9ecef;
+  text-decoration: none;
+}
+
+/* Video container */
+.video-container {
+  margin-bottom: 30px;
+}
+
+/* Feature card styling for new design */
+.feature-card.new-style {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 0;
+  overflow: hidden;
+  box-shadow: none;
+  transition: none;
+  background-color: white;
+}
+
+.feature-header {
+  padding: 10px 15px;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.feature-content {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.feature-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.feature-footer {
+  background-color: #f9f2f0;
+  padding: 15px;
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.feature-link {
+  color: #8B4513;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.feature-link:hover {
+  text-decoration: underline;
+}
+
+/* Text Slider Styles */
+.text-slider-container {
+  background-color: #f5f5f5;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  height: 70px;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.text-slider {
+  display: flex;
+  flex-direction: column;
+  height: 400%; 
+  animation: slideVertical 20s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite;
+  max-width: 1140px; /* Match typical Bootstrap container width */
+  width: 100%;
+}
+
+.text-slider-item {
+  height: 25%; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: center;
+  flex-shrink: 0;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.text-slider-item:hover {
+  opacity: 1;
+}
+
+.text-slider-item strong {
+  color: #8B4513;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+@keyframes slideVertical {
+  0%, 19% {
+    transform: translateY(0);
+  }
+  25%, 44% {
+    transform: translateY(-25%);
+  }
+  50%, 69% {
+    transform: translateY(-50%);
+  }
+  75%, 94% {
+    transform: translateY(-75%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.text-slider-container:hover .text-slider {
+  animation-play-state: paused;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .card-img-top {
+    height: 150px;
+  }
+  
+  .team-member img {
+    max-width: 120px;
+  }
+}

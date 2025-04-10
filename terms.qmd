@@ -1,0 +1,38 @@
+---
+title: "Terms of Use"
+---
+
+# Terms of Use
+
+Welcome to the History of Mathematics in India (HoMI) website. By accessing or using this website, you agree to be bound by these Terms of Use.
+
+## Content Usage
+
+All content on this website, including text, images, logos, and audio/visual materials, is the property of the HoMI project at IIT Gandhinagar and is protected by copyright laws.
+
+You may use the content for personal, non-commercial, and educational purposes. For any other use, please contact us to obtain permission.
+
+## User Conduct
+
+When using this website, you agree not to:
+- Violate any applicable laws or regulations
+- Infringe on the rights of others
+- Attempt to gain unauthorized access to any part of the website
+- Use the website to distribute malware or other harmful content
+- Engage in any activity that could damage or impair the website's functionality
+
+## External Links
+
+This website may contain links to external websites that are not operated by us. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites.
+
+## Disclaimer
+
+The information provided on this website is for general informational purposes only. We make no representations or warranties about the accuracy or completeness of the information provided.
+
+## Changes to These Terms
+
+We may update these Terms of Use from time to time. Any changes will be posted on this page.
+
+## Contact Us
+
+If you have any questions about these Terms of Use, please contact us at homi@iitgn.ac.in.
